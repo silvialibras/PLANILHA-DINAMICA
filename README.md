@@ -1,7 +1,7 @@
 # PLANILHA-DINAMICA
 DESAFIO DIO - PLANILHA DINAMICA
 
-<a href="https://github.com/silvialibras/prompts-recipe-to-create-a-ebook/blob/main/Desafio%20-%20Ebook%20-%20Neg%C3%B3cios%20Inteligentes.%20O%20Poder%20da%20IA%20na%20Era%20dos%20Dados.pdf" title="View PDF now"> 📕Clique aqui para visualizar o Dashboard</a>
+<a href="https://github.com/silvialibras/PLANILHA-DINAMICA/blob/main/TABELA%20DIN%C3%82MICA.pdf%20-%20Neg%C3%B3cios%20Inteligentes.%20O%20Poder%20da%20IA%20na%20Era%20dos%20Dados.pdf" title="View PDF now"> 📕Clique aqui para visualizar o Dashboard</a>
 
 ## 💻 Planilha Excel
 
